@@ -4,11 +4,11 @@
     <parent>
         <groupId>guru.springframework</groupId>
         <artifactId>sfg-pet-clinic</artifactId>
-        <version>0.0.1</version>
+        <version>0.0.2-SNAPSHOT</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
     <artifactId>pet-clinic-web</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
     <name>pet-clinic-web</name>
     <description>Web application for SFG Pet Clinic</description>
     <properties>
@@ -43,7 +43,7 @@
         <dependency>
             <groupId>guru.springframework</groupId>
             <artifactId>pet-clinic-data</artifactId>
-            <version>0.0.1</version>
+            <version>0.0.2-SNAPSHOT</version>
         </dependency>
     </dependencies>
 
