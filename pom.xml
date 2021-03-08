@@ -14,8 +14,11 @@
     <name>sfg-pet-clinic</name>
     <description>SFG Pet Clinic Project</description>
 
-    <modules>
+    <packaging>pom</packaging>
 
+    <modules>
+        <module>pet-clinic-web</module>
+        <module>pet-clinic-data</module>
     </modules>
 
 </project>
